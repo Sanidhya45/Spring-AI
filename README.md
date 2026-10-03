@@ -74,3 +74,17 @@ public class AIController {
 # Prompts management
   -We can store prompts in extenal files(.st,.mustache)
 
+
+# NOTEBOOK NOTES
+```text
+ChatClient  → Talk to AI
+Prompt      → Tell AI what to do
+Output      → Get structured response
+Embeddings  → Convert text to vectors
+Vector Store→ Store/search vectors
+RAG         → Give AI relevant documents
+Advisors    → Customize AI interaction
+Tools       → Let AI use your application
+Memory      → Remember conversation
+Documents   → Prepare data for AI
+```
